@@ -1,0 +1,28 @@
+.navbar-wrapper
+{
+	font-size: 40px;
+}
+
+#navbar
+{
+	background-color: rgb(67,140,60);
+}
+
+.navbar-header
+{
+	background-color: rgb(67,140,60);
+}
+
+header
+{
+	text-align: center;
+	font-size: 50px;
+	font-family: arial;
+	font-style: italic;
+	font-weight: bold;
+	
+}
+form
+{
+	background-color: #B4DC90;
+}
